@@ -1,2 +1,0 @@
-# mywebpages2
-project
